@@ -2,14 +2,13 @@
 //  LoginViewController.swift
 //  Twitter
 //
-//  Created by Sam Wang on 2/15/22.
+//  Created by Winnie She on 2/15/22.
 //  Copyright © 2022 Dan. All rights reserved.
 //
 
 import UIKit
 
 class LoginViewController: UIViewController {
-
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
